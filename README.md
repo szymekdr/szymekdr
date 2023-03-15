@@ -8,7 +8,7 @@
 - 📫 via GitHub or szymek . drobniak _at_ gmail . com
 - 😄 Pronouns: he/him, proudly 🏳️‍🌈
 - 🎨 Apart from science I'm also a graphic designer! Hit me if you're interested in science illustration, infographic or art&science themes!
-- If not science then... TV series bing-watching 📺 / Birding 🔭 / travelling 🗺️ / analog photography 📸🎞️ / art galleries 🖼️
+- If not science then... TV series bing-watching 📺 / birding 🔭 / travelling 🗺️ / analog photography 📸🎞️ / art galleries 🖼️
 
 <!--
 **szymekdr/szymekdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
