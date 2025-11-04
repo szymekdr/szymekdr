@@ -3,7 +3,7 @@
 - 👨‍🔬 I’m an evolutionary biologist working on birds, colouration and biostatistics
 - 🦆🦉🦚🦩🐦‍⬛🪺 I study birds in terms of their genetics, responses to climate change and reproductive strategies
 - 📈📉📊 I also conduct comparative meta-analyses and research syntheses
-- 🇦🇺🇸🇪🇵🇱 - I split my time between Australia, Sweden and Poland
+- 🇵🇱🇸🇪🇦🇺 - I split my time between Australia, Sweden and Poland
 - 💬 Chat to me if you want to learn/collaborate on meta-analysis or a comparative study
 - 📫 via GitHub or szymek . drobniak _at_ gmail . com
 - 😄 Pronouns: he/him, proudly 🏳️‍🌈
